@@ -1,0 +1,17 @@
+
+
+
+
+Классы
+	class MyClass:
+		a = 10
+		b = 20
+		
+		def classFunction(x):
+			print(x)
+			
+
+Конструирование объекта
+	a = MyClass()
+	
+	
